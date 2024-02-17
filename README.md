@@ -1,11 +1,16 @@
 # Handwritten Character Recognition
 
-## Description and analysis of the dataset
+The aim is to build different kinds of classifiers that seem relevant to predict the class of new examples (for which you don’t 
+know the true class) (in terms of accuracy of predictions).
+
+## About the dataset
 
 Examples in this dataset are black and white images representing handwritten characters 
-from the arabic alphabet.
+from the arabic alphabet. Below  is  an  example  of  such  an  image
 
-
+<p align='center'>
+<img src='image-1.png' width=225> 
+</p>
 - 1700 examples
 
 - 1024 features
