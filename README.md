@@ -71,8 +71,5 @@ The best parameters I've found.
 | Random forest |    | # of trees=50   | 0.87    | 0.87        | 0.90    |
 | Logistic reg. |    | -         | 0.89    | 0.93        | 0.90    |
 
-## Conclusion
-SVM with polynomial (or rbf) kernel is the best classifier based on these scores.
-
 > Note : i did not set the random state in train/validation/test split method.
 > It is possible to obtain slightly different results than those of this report when you execute my notebook.
